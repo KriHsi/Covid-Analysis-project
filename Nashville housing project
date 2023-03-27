@@ -1,9 +1,11 @@
+```SQL
 /*
 Cleaning Data in SQL queries
 */
 USE PortfolioProject
 SELECT *
 FROM NashvilleHousing;
+```
 
 
 --Standarize Data Format
