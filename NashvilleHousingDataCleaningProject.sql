@@ -1,5 +1,5 @@
 ﻿/*
-Cleaning Data in SQL queries
+ Cleaning Data in SQL queries
 */
 
 USE PortfolioProject
