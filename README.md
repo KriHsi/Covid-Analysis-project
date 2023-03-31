@@ -1,6 +1,6 @@
 # Covid-Analysis-project
 
-Data Source: https://www.worldometers.info/coronavirus/
+Data Source: https://ourworldindata.org/covid-deaths
 
 ## Questions to answer: 
 ### What is the impact of Covid: 
